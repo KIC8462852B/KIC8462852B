@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Currently: QA Tester — ensuring quality, testing features, and learning automation.<br>🎓 Studying: Finishing a Higher Vocational Degree in Web Development. (Final project)<br>💡 Goal: Transition into a full-stack or web developer role and gain hands-on project experience.<br>🧠 Learning: Java, Spring Boot, JavaScript, and modern web technologies.<br>🤝 Looking to: Collaborate on open-source or small side projects to grow my skills.<br>🚀 Passionate about: Clean code, problem solving, and continuous improvement.<br>🌍 Languages: Spanish 🇪🇸 | English 🇬🇧<br>
+💼 **Currently**: QA Tester — ensuring quality, testing features, and learning automation.<br>🎓 **Studying**: Finishing a Higher Vocational Degree in Web Development. (Final project)<br>💡 **Goal**: Transition into a full-stack or web developer role and gain hands-on project experience.<br>🧠 **Learning**: Java, Spring Boot, JavaScript, and modern web technologies.<br>🤝 **Looking to:** Collaborate on open-source or small side projects to grow my skills.<br>🚀 **Passionate about:** Clean code, problem solving, and continuous improvement.<br>🌍 **Languages:** Spanish 🇪🇸 | English 🇬🇧<br>
 
 
 # 💻 Tech Stack:
